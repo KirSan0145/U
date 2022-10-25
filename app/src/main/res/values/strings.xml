@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Uni</string>
+    <string name="ini">Inicio de sesión</string>
+    <string name="usu">Usuario:</string>
+    <string name="contra">Contraseña:</string>
+    <string name="ini1">Iniciar sesión</string>
+    <string name="menu">Menú</string>
+    <string name="Control">Control</string>
+    <string name="Historial">Historial</string>
+    <string name="Cerrar">Cerrar sesión</string>
+    <string name="desarrollo">Desarrollador por:</string>
+    <string name="filter">Filtrar por:</string>
+    <string name="Fecha">Fecha:</string>
+    <string name="Descargar">Descargar</string>
+    <string name="Manual">Manual</string>
+
+    //Manual
+
+    <string name="name">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="cedula">Cedula</string>
+    <string name="celular">Celular</string>
+    <string name="reg">Continuar con el registro</string>
+    <string name="formreg">Formulario de registros</string>
+    <string name="in">Entrada</string>
+    <string name="out">Salida</string>
+
+    //ingreso
+
+    <string name="formun">Formulario Uniminuto</string>
+    <string name="vehi">Tipo de vehiculo</string>
+    <string name="idvehi">Identificador del vehiculo</string>
+    <string name="dispo">Dispositivo</string>
+    <string name="obs">Observaciones</string>
+    <string name="incheck">Validar ingreso</string>
+    
+    //Salidas
+    
+    <string name="SCedula">Buscar por cedula: </string>
+    <string name="valsa">Validar salida</string>
+    
+</resources>
